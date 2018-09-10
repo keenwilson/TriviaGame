@@ -1,0 +1,42 @@
+body {
+    font-family: 'Gaegu', cursive;
+    color: #222;
+    font-size: 20px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Gaegu', cursive;
+    color: #222;
+}
+
+p {
+    font-family: 'Gaegu', cursive;
+    color: #333;
+}
+
+#game-cover {
+    overflow: hidden;
+}
+
+#game-title {
+    font-size: 3rem;
+}
+#hero-img {
+    max-height: 500px;
+}
+
+#start-button {
+    font-size: 2rem;
+    width: 360px;
+}
+
+#current-question {
+    font-family: 'Gaegu', cursive;
+    color: #222;
+    font-size: 2rem;
+}
+
+.giphy-embed {
+    height: 270px;
+}
