@@ -72,7 +72,7 @@ $(document).ready(function () {
         },  
         {
             question: "What is NOT true about the Labrador Retriever?",
-            choices: ["Nearly went extinct", "Practically waterproof", "Coat color indicates her temperament", "Generally considered low maintenance"],
+            choices: ["Nearly went extinct", "Practically waterproof", "Coat color indicates temperament", "Low maintenance"],
             correctAnswer: "Coat color indicates her temperament",
             giphy: '<iframe src="https://giphy.com/embed/FuTuYgqYaRFe0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>',
             funFact: "A Labrador’s color has nothing to do with her temperament. Black Labs, Yellow Labs, and Chocolate Labs are equally sweet and loving."
@@ -134,6 +134,7 @@ $(document).ready(function () {
         seconds = 10;
         count++;
         startGame();
+        
     }
 
     function displayTrivia(count) {
