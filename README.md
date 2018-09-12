@@ -1,5 +1,5 @@
 # TriviaGame
-I created a dog-themed trivia game using JavaScript for the logic and jQuery to manipulate HTML.
+I created a dog-themed trivia game using JavaScript timing events for the logic and jQuery to manipulate HTML.
 
 ## How it works
 * A trivia game shows only one question until the player answers it or their time runs out.
