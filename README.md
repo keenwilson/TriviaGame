@@ -1,8 +1,7 @@
 # Trivia Game
 
-I created a dog-themed trivia game using JavaScript timing events for the logic and jQuery to manipulate HTML.
- [Click to Play](https://keenwilson.github.io/TriviaGame/ "Dog Trivia Game")
 
+ [Click to Play a Dog-themed Trivia Game](https://keenwilson.github.io/TriviaGame/ "Dog Trivia Game")
 ---
 ## How This Application Works
 
@@ -26,9 +25,9 @@ I created a dog-themed trivia game using JavaScript timing events for the logic 
 
 ---
 ## Technology and concept used
-* JavaScript Timer
-* jQuery
-* CSS Bootstrap
+* `JavaScript` timing events for the logic 
+* `jQuery` to manipulate HTML
+* `CSS` Bootstrap Framework to create 
 
 ---
 ## Author
