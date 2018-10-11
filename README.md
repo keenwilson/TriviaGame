@@ -21,13 +21,17 @@
     * If the player runs out of time, it tells the player that time's up and display the correct answer. Wait a few seconds, then display the next question.
 
 ![Show results](./assets/screenshots/dogtrivia-stat.png)
-* On the final screen, show the number of correct answer, incorrect answers, and an option to restart the game (without reloading the page).
+* On the final screen, show the number of correct answer, incorrect answers, and _a start over button_ to restart the game so that the user doesn't have to refresh browser to play again.
 
 ---
-## Technology and concept used
-* `JavaScript` timing events for the logic 
-* `jQuery` to manipulate HTML
-* `CSS` Bootstrap Framework to create 
+## Technological Approach
+
+* `CSS Bootstrap` and `Google Fonts`  to create a clean look.
+* `JavaScript` timing events such as  for the logic 
+* Use `jQuery Selectors` like `#id` and `.class` to select the elements with specific IDs and classes.
+* Use the `on()` method of `jQuery` to attach event handlers to the selected elements.
+    * Attach a click event to answer choices
+* manipulate HTML.
 
 ---
 ## Author
