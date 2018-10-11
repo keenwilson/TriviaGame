@@ -44,9 +44,9 @@ function initiateStartButton() {
 };
 ```
         
-    * `attr()` sets or returns attributes/values of selected elements
-    * `text()` sets or returns the text content of selected elements
-    * `append()` inserts content at the end of selected elements
+* `attr()` sets or returns attributes/values of selected elements
+ * `text()` sets or returns the text content of selected elements
+ * `append()` inserts content at the end of selected elements
 ---
 ## Author
 
