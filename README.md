@@ -31,8 +31,21 @@
 * Use `jQuery Selectors` like `#id` and `.class` to select the elements with specific IDs and classes.
 * Use the `on()` method of `jQuery` to attach event handlers to the selected elements.
     * Attach a click event to answer choices
-* manipulate HTML.
-
+* Utilize `jQuery HTML/CSS` methods to manipulate the HTML and CSS
+        ```
+        function initiateStartButton() {
+            var startButton = $("<button>").attr({
+                class: "btn-lg btn-outline-dark",
+                id: "start-button"
+            });
+            startButton.text('Start');
+            $("#game-area").append(startButton);
+        };
+        ```
+        
+    * `attr()` sets or returns attributes/values of selected elements
+    * `text()` sets or returns the text content of selected elements
+    * `append()` inserts content at the end of selected elements
 ---
 ## Author
 
